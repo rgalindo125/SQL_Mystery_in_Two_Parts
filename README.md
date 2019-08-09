@@ -12,5 +12,6 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 # Objectives
 
 # Data Modeling
-# Inspect the CSVs and sketch out an ERD of the tables using QuickDBD
+Inspect the CSVs and sketch out an ERD of the tables using QuickDBD
 
+![](https://github.com/rgalindo125/SQL_Mystery_in_Two_Parts/blob/master/QuickDBD-employee_db.png)
