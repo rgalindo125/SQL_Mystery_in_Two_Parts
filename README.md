@@ -7,7 +7,7 @@ Conduct a research project on employees of the corporation from the 1980s and 19
 Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, perform the following:
    1. Data Madeling
    2. Data Engineering
-   3  Data Analysis
+   3. Data Analysis
    
 # Objectives
 
